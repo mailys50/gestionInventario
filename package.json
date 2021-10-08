@@ -1,0 +1,19 @@
+{
+  "name": "gestioninventario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "invent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailys50/gestionInventario.git"
+  },
+  "author": "Mailys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mailys50/gestionInventario/issues"
+  },
+  "homepage": "https://github.com/mailys50/gestionInventario#readme"
+}
